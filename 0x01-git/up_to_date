@@ -1,1 +1,5 @@
+<<<<<<< HEAD
  git add . 
+=======
+ git pull 
+>>>>>>> master
